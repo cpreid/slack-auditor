@@ -1,6 +1,6 @@
 {
   "name": "slack-auditor",
-  "version": "1.0.0",
+  "version": "1.0.6",
   "description": "Simple pub/sub solution for the Slack Audit Logs API",
   "main": "index.js",
   "scripts": {
