@@ -1,5 +1,5 @@
-# audit-logs-pubsub
-Simple pub/sub solution for the Slack Audit Logs API
+# Slack-auditor
+Simple pub/sub client for the Slack Audit Logs API
 
 ## Install
 `npm install slack-auditor`
