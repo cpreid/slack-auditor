@@ -1,0 +1,24 @@
+{
+  "name": "slack-auditor",
+  "version": "1.0.0",
+  "description": "Simple pub/sub solution for the Slack Audit Logs API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpreid/slack-auditor.git"
+  },
+  "keywords": [
+    "slack",
+    "audit",
+    "logs"
+  ],
+  "author": "Cooper Reid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cpreid/slack-auditor/issues"
+  },
+  "homepage": "https://github.com/cpreid/slack-auditor#readme"
+}
