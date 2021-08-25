@@ -1,6 +1,6 @@
 {
   "name": "slack-auditor",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Simple pub/sub solution for the Slack Audit Logs API",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/cpreid/slack-auditor/issues"
   },
-  "homepage": "https://github.com/cpreid/slack-auditor#readme"
+  "homepage": "https://github.com/cpreid/slack-auditor#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "qs": "^6.10.1"
+  }
 }
